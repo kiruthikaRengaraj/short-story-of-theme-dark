@@ -45,6 +45,11 @@ body {
   h4{
     color: darkgreen;
   }
+  h6{
+    text-align: right;
+    font-size: large;
+    color: blue;
+  }
   
   .dark,
   .dark * {
@@ -60,5 +65,11 @@ body {
   h4{
     color: darkgreen;
   }
+  h6{
+    text-align: right;
+    font-size: large;
+    color: rgba(83, 108, 221, 0.822);
+  }
+  
   
   
